@@ -11,6 +11,7 @@ I recently graduated from Enspiral Dev Academy and I'm determined to keep learni
 - Ways to refactor code, including single line if statements and use of the ternary operator. (14/4/16)
 - What a lambda is (sort of!). (15/04/16)
 - What inheritance is and how it works. (16/04/16)
+- About the IO class. (19/04/16)
 
 <h2>Node.js</h2>
 - How to sort out EACCES issues when installing NPM packages in Ubuntu (via use of NVM). (17/04/16)
@@ -20,6 +21,9 @@ I recently graduated from Enspiral Dev Academy and I'm determined to keep learni
 
 <h2>HTML</h2>
 - That I need a better MS Word to HTML converter! (10/4/16)
+
+<h2>Deployment</h2>
+- How to deploy an app on Heroku. (19/04/16)
 
 <h2>General/Other</h2>
 - That sometimes life gets in the way of learning. (13/4/16)
