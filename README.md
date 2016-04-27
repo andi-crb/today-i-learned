@@ -16,7 +16,9 @@ I recently graduated from Enspiral Dev Academy and I'm determined to keep learni
 
 <h2>Node.js</h2>
 - How to sort out EACCES issues when installing NPM packages in Ubuntu (via use of NVM). (17/04/16)
+- That some code needs to only be at the highest level component in React (in this case, injectTapEventPlugin). (23/04/16)
 - How to setup React routing from scratch (25/04/16)
+- How to edit the .babelrc file. (22/04/16)
 
 <h2>SQL</h2>
 - An overview of some of SQL server's new features. (9/4/16)
@@ -35,6 +37,7 @@ I recently graduated from Enspiral Dev Academy and I'm determined to keep learni
 
 <h2>General/Other</h2>
 - That sometimes life gets in the way of learning. (13/4/16)
+- That I need to get better at keeping this up everyday (yeah, I know...). (20/4/16)
 - That keeping up coding while working fulltime isn't easy. (27/4/16)
 
 This idea inspired by til repos such as that of <a href="https://github.com/jbranchaud/til">jbranchaud</a>
