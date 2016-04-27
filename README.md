@@ -12,6 +12,7 @@ I recently graduated from Enspiral Dev Academy and I'm determined to keep learni
 - What a lambda is (sort of!). (15/04/16)
 - What inheritance is and how it works. (16/04/16)
 - About the IO class. (19/04/16)
+- How to write to a file and access that file. (21/04/16)
 
 <h2>Node.js</h2>
 - How to sort out EACCES issues when installing NPM packages in Ubuntu (via use of NVM). (17/04/16)
