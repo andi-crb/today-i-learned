@@ -13,6 +13,7 @@ I recently graduated from Enspiral Dev Academy and I'm determined to keep learni
 - What inheritance is and how it works. (16/04/16)
 - About the IO class. (19/04/16)
 - How to write to a file and access that file. (21/04/16)
+- How to setup a basic Rails app. (28/04/16)
 
 <h2>Node.js</h2>
 - How to sort out EACCES issues when installing NPM packages in Ubuntu (via use of NVM). (17/04/16)
@@ -25,6 +26,9 @@ I recently graduated from Enspiral Dev Academy and I'm determined to keep learni
 
 <h2>HTML</h2>
 - That I need a better MS Word to HTML converter! (10/4/16)
+
+<h2>CSS</h2>
+- How to define variables in LESS and SASS. (29/04/16)
 
 <h2>Github</h2>
 - To star my best repositories so they show up first in my profile page. (14/4/16)
