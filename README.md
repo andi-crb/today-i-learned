@@ -17,6 +17,7 @@ I recently graduated from Enspiral Dev Academy and I'm determined to keep learni
 - How to use .map.with_index
 - How to set up routes in Rails. (1/05/16)
 - How to introduce pagination in a Rails app. (02/05/16)
+- How to use lines.to_a. (03/05/16)
 
 <h2>Node.js</h2>
 - How to sort out EACCES issues when installing NPM packages in Ubuntu (via use of NVM). (17/04/16)
