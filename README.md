@@ -18,12 +18,15 @@ I recently graduated from Enspiral Dev Academy and I'm determined to keep learni
 - How to set up routes in Rails. (1/05/16)
 - How to introduce pagination in a Rails app. (02/05/16)
 - How to use lines.to_a. (03/05/16)
+- How to use gems. (04/05/16)
+- How to validate data. (08/05/16)
 
 <h2>Node.js</h2>
 - How to sort out EACCES issues when installing NPM packages in Ubuntu (via use of NVM). (17/04/16)
 - That some code needs to only be at the highest level component in React (in this case, injectTapEventPlugin). (23/04/16)
 - How to setup React routing from scratch (25/04/16)
 - How to edit the .babelrc file. (22/04/16)
+- What flux is. (07/05/16)
 
 <h2>SQL</h2>
 - An overview of some of SQL server's new features. (9/4/16)
@@ -36,9 +39,11 @@ I recently graduated from Enspiral Dev Academy and I'm determined to keep learni
 
 <h2>Github</h2>
 - To star my best repositories so they show up first in my profile page. (14/4/16)
+- That I should have double checked I had _actually_ pushed all my code to Github before reinstalling my operating system. (06/05/16)
 
 <h2>Text Editor</h2>
 - Use of ctrl-shift-d to duplicate a line in Atom (26/4/16)
+- How to auto-indent in Atom. (05/05/16)
 
 <h2>Deployment</h2>
 - How to deploy an app on Heroku. (18/04/16)
