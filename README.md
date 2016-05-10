@@ -21,6 +21,7 @@ I recently graduated from Enspiral Dev Academy and I'm determined to keep learni
 - How to use gems. (04/05/16)
 - How to validate data. (08/05/16)
 - Use of parameters and custom routes. (09/05/16)
+- Creation of up and down methods so as to enable reversal of migrations. (10/05/16)
 
 <h2>Node.js</h2>
 - How to sort out EACCES issues when installing NPM packages in Ubuntu (via use of NVM). (17/04/16)
