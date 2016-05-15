@@ -2,7 +2,7 @@
 
 I recently graduated from Enspiral Dev Academy and I'm determined to keep learning. This is a repository to record at least one thing I learned each day, however simple or straightforward it might be.
 
-<h2>Ruby</h2>
+<h2>Ruby [on Rails]</h2>
 - Use of .chomp to remove the blank line from input (6/4/16)
 - Use of each, times and iteration. (7/4/16)
 - How to iterate through a Hash. (8/4/16)
@@ -23,6 +23,8 @@ I recently graduated from Enspiral Dev Academy and I'm determined to keep learni
 - Use of parameters and custom routes. (09/05/16)
 - Creation of up and down methods so as to enable reversal of migrations. (10/05/16)
 - How REST actions in controllers differ between Ruby 1 and Ruby 2. (11/05/16)
+- How to use RVM to manage different versions of Ruby. (14/05/16)
+- How to use partials to minimise repetition. (15/05/16)
 
 <h2>Node.js</h2>
 - How to sort out EACCES issues when installing NPM packages in Ubuntu (via use of NVM). (17/04/16)
