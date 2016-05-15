@@ -23,6 +23,8 @@ I recently graduated from Enspiral Dev Academy and I'm determined to keep learni
 - Use of parameters and custom routes. (09/05/16)
 - Creation of up and down methods so as to enable reversal of migrations. (10/05/16)
 - How REST actions in controllers differ between Ruby 1 and Ruby 2. (11/05/16)
+- How to create a route redirection. (12/05/16)
+- How to create the root route. (13/05/16)
 - How to use RVM to manage different versions of Ruby. (14/05/16)
 - How to use partials to minimise repetition. (15/05/16)
 
