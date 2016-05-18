@@ -27,6 +27,8 @@ I recently graduated from Enspiral Dev Academy and I'm determined to keep learni
 - How to create the root route. (13/05/16)
 - How to use RVM to manage different versions of Ruby. (14/05/16)
 - How to use partials to minimise repetition. (15/05/16)
+- How to use gravatar in a Rails app. (16/05/16)
+- How to use the built-in has_secure_password method. (18/05/16)
 
 <h2>Node.js</h2>
 - How to sort out EACCES issues when installing NPM packages in Ubuntu (via use of NVM). (17/04/16)
@@ -43,6 +45,7 @@ I recently graduated from Enspiral Dev Academy and I'm determined to keep learni
 
 <h2>CSS</h2>
 - How to define variables in LESS and SASS. (29/04/16)
+- How to use the SASS mixin facility. (17/05/16)
 
 <h2>Github</h2>
 - To star my best repositories so they show up first in my profile page. (14/4/16)
