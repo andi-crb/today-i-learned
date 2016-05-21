@@ -36,6 +36,7 @@ I recently graduated from Enspiral Dev Academy and I'm determined to keep learni
 - How to setup React routing from scratch (25/04/16)
 - How to edit the .babelrc file. (22/04/16)
 - What flux is. (07/05/16)
+- That colSpan and rowSpan need camel case capitalisation in JSX. (21/05/16)
 
 <h2>SQL</h2>
 - An overview of some of SQL server's new features. (9/4/16)
@@ -43,9 +44,10 @@ I recently graduated from Enspiral Dev Academy and I'm determined to keep learni
 <h2>HTML</h2>
 - That I need a better MS Word to HTML converter! (10/4/16)
 
-<h2>CSS</h2>
+<h2>CSS and Visual Design</h2>
 - How to define variables in LESS and SASS. (29/04/16)
 - How to use the SASS mixin facility. (17/05/16)
+- That fluidui.com is really useful for basic wireframes. (20/05/16)
 
 <h2>Github</h2>
 - To star my best repositories so they show up first in my profile page. (14/4/16)
@@ -62,5 +64,6 @@ I recently graduated from Enspiral Dev Academy and I'm determined to keep learni
 - That sometimes life gets in the way of learning. (13/4/16)
 - That I need to get better at keeping this up everyday (yeah, I know...). (20/4/16)
 - That keeping up coding while working fulltime isn't easy. (27/4/16)
+- That working on a real world project is really fun! (20/05/16)
 
 This idea inspired by til repos such as that of <a href="https://github.com/jbranchaud/til">jbranchaud</a>
