@@ -37,6 +37,7 @@ I recently graduated from Enspiral Dev Academy and I'm determined to keep learni
 - How to edit the .babelrc file. (22/04/16)
 - What flux is. (07/05/16)
 - That colSpan and rowSpan need camel case capitalisation in JSX. (21/05/16)
+- Why onKeyUp can be more appropriate than onKeyDown. (22/05/16)
 
 <h2>SQL</h2>
 - An overview of some of SQL server's new features. (9/4/16)
