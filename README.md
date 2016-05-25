@@ -38,6 +38,7 @@ I recently graduated from Enspiral Dev Academy and I'm determined to keep learni
 - What flux is. (07/05/16)
 - That colSpan and rowSpan need camel case capitalisation in JSX. (21/05/16)
 - Why onKeyUp can be more appropriate than onKeyDown. (22/05/16)
+- How to map an array to display images in React. (24/05/16)
 
 <h2>SQL</h2>
 - An overview of some of SQL server's new features. (9/4/16)
@@ -53,6 +54,8 @@ I recently graduated from Enspiral Dev Academy and I'm determined to keep learni
 <h2>Github</h2>
 - To star my best repositories so they show up first in my profile page. (14/4/16)
 - That I should have double checked I had _actually_ pushed all my code to Github before reinstalling my operating system. (06/05/16)
+- As above, just substitute "reinstalling my operating system" with "letting my battery die..." (23/05/16)
+- How to push an existing Cloud9 project to github. (25/05/16)
 
 <h2>Text Editor</h2>
 - Use of ctrl-shift-d to duplicate a line in Atom (26/4/16)
