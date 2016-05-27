@@ -29,6 +29,7 @@ I recently graduated from Enspiral Dev Academy and I'm determined to keep learni
 - How to use partials to minimise repetition. (15/05/16)
 - How to use gravatar in a Rails app. (16/05/16)
 - How to use the built-in has_secure_password method. (18/05/16)
+- That use of == in authentication can leave you vulnerable to timing attacks. (26/05/2016)
 
 <h2>Node.js</h2>
 - How to sort out EACCES issues when installing NPM packages in Ubuntu (via use of NVM). (17/04/16)
@@ -39,6 +40,7 @@ I recently graduated from Enspiral Dev Academy and I'm determined to keep learni
 - That colSpan and rowSpan need camel case capitalisation in JSX. (21/05/16)
 - Why onKeyUp can be more appropriate than onKeyDown. (22/05/16)
 - How to map an array to display images in React. (24/05/16)
+- That you can use Lebab to convert code from ES5 to ES6. (27/05/2016)
 
 <h2>SQL</h2>
 - An overview of some of SQL server's new features. (9/4/16)
