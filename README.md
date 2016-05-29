@@ -30,6 +30,7 @@ I recently graduated from Enspiral Dev Academy and I'm determined to keep learni
 - How to use gravatar in a Rails app. (16/05/16)
 - How to use the built-in has_secure_password method. (18/05/16)
 - That use of == in authentication can leave you vulnerable to timing attacks. (26/05/2016)
+- That flash.now should be used to display flash messages on rendered pages. (29/05/2016)
 
 <h2>Node.js</h2>
 - How to sort out EACCES issues when installing NPM packages in Ubuntu (via use of NVM). (17/04/16)
