@@ -63,6 +63,7 @@ I recently graduated from Enspiral Dev Academy and I'm determined to keep learni
 - How to define variables in LESS and SASS. (29/04/16)
 - How to use the SASS mixin facility. (17/05/16)
 - That fluidui.com is really useful for basic wireframes. (20/05/16)
+- The existence of font-variant: small-caps (10/06/2016)
 - How to integrate CSS with twine. (12/06/2016)
 
 <h2>Github</h2>
