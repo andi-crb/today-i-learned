@@ -31,6 +31,12 @@ I recently graduated from Enspiral Dev Academy and I'm determined to keep learni
 - How to use the built-in has_secure_password method. (18/05/16)
 - That use of == in authentication can leave you vulnerable to timing attacks. (26/05/2016)
 - That flash.now should be used to display flash messages on rendered pages. (29/05/2016)
+- 
+- Three different shorcuts for creating new hashes. (21/06/2016)
+- How to use the is_a? method. (22/06/2016)
+- Gained a much clearer understanding of exactly what a class is. (23/06/2016)
+- How to set default values for parameters. (24/06/2016)
+- Use of the splat operator when passing parameters to a list. (25/06/2016)
 
 <h2>Node.js</h2>
 - How to sort out EACCES issues when installing NPM packages in Ubuntu (via use of NVM). (17/04/16)
@@ -47,6 +53,9 @@ I recently graduated from Enspiral Dev Academy and I'm determined to keep learni
 <h2>SQL</h2>
 - An overview of some of SQL server's new features. (9/4/16)
 
+<h2>jQuery</h2>
+- Some of the ways I can use jQuery to build interactive fiction. (11/6/2016)
+
 <h2>HTML</h2>
 - That I need a better MS Word to HTML converter! (10/4/16)
 
@@ -54,6 +63,7 @@ I recently graduated from Enspiral Dev Academy and I'm determined to keep learni
 - How to define variables in LESS and SASS. (29/04/16)
 - How to use the SASS mixin facility. (17/05/16)
 - That fluidui.com is really useful for basic wireframes. (20/05/16)
+- How to integrate CSS with twine. (12/06/2016)
 
 <h2>Github</h2>
 - To star my best repositories so they show up first in my profile page. (14/4/16)
