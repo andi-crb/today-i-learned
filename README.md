@@ -33,7 +33,6 @@ I recently graduated from Enspiral Dev Academy and I'm determined to keep learni
 - That flash.now should be used to display flash messages on rendered pages. (29/05/2016)
 - That rubymonk.com is a good place to learn. (08/06/2016)
 - Use of the .methods method to discover available methods. (09/06/2016)
-- 
 - Three different shorcuts for creating new hashes. (21/06/2016)
 - How to use the is_a? method. (22/06/2016)
 - Gained a much clearer understanding of exactly what a class is. (23/06/2016)
@@ -55,8 +54,9 @@ I recently graduated from Enspiral Dev Academy and I'm determined to keep learni
 <h2>SQL</h2>
 - An overview of some of SQL server's new features. (9/4/16)
 
-<h2>jQuery</h2>
+<h2>jQuery/client-side javascript</h2>
 - Some of the ways I can use jQuery to build interactive fiction. (11/6/2016)
+- Of the existence of <a href="https://github.com/indus/brexit.js">brexit.js</a>
 
 <h2>HTML</h2>
 - That I need a better MS Word to HTML converter! (10/4/16)
