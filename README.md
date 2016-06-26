@@ -56,7 +56,7 @@ I recently graduated from Enspiral Dev Academy and I'm determined to keep learni
 
 <h2>jQuery/client-side javascript</h2>
 - Some of the ways I can use jQuery to build interactive fiction. (11/6/2016)
-- Of the existence of <a href="https://github.com/indus/brexit.js">brexit.js</a>
+- Of the existence of <a href="https://github.com/indus/brexit.js">brexit.js</a>. (26/06/2016)
 
 <h2>HTML</h2>
 - That I need a better MS Word to HTML converter! (10/4/16)
