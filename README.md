@@ -31,6 +31,8 @@ I recently graduated from Enspiral Dev Academy and I'm determined to keep learni
 - How to use the built-in has_secure_password method. (18/05/16)
 - That use of == in authentication can leave you vulnerable to timing attacks. (26/05/2016)
 - That flash.now should be used to display flash messages on rendered pages. (29/05/2016)
+- That rubymonk.com is a good place to learn. (08/06/2016)
+- Use of the .methods method to discover available methods. (09/06/2016)
 - 
 - Three different shorcuts for creating new hashes. (21/06/2016)
 - How to use the is_a? method. (22/06/2016)
