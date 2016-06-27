@@ -38,6 +38,7 @@ I recently graduated from Enspiral Dev Academy and I'm determined to keep learni
 - Gained a much clearer understanding of exactly what a class is. (23/06/2016)
 - How to set default values for parameters. (24/06/2016)
 - Use of the splat operator when passing parameters to a list. (25/06/2016)
+- Use of ranges (eg 1..3). (27/06/2016)
 
 <h2>Node.js</h2>
 - How to sort out EACCES issues when installing NPM packages in Ubuntu (via use of NVM). (17/04/16)
