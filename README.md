@@ -51,7 +51,8 @@ I recently graduated from Enspiral Dev Academy and I'm determined to keep learni
 - How to map an array to display images in React. (24/05/16)
 - That you can use Lebab to convert code from ES5 to ES6. (27/05/2016)
 - How to use a for...in loop to construct an array based on an object. (28/05/2016)
-- The syntax for defining React components as functions of props. (28/06/2016) 
+- The syntax for defining React components as functions of props. (28/06/2016)
+- Some ways to improve the speed of Node apps. (29/06/2016)
 
 <h2>SQL</h2>
 - An overview of some of SQL server's new features. (9/4/16)
